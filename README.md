@@ -1,5 +1,5 @@
-Chad Augur
-examples of past work, idea sketches, and other adventures. 
+<h1>Chad Augur</h1><br/>
+<h6>examples of past work, idea sketches, and other adventures.</h6> 
 
 <a href="github.com/augurone/somexample">github examples</a>
 ===========
