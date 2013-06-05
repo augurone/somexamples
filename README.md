@@ -11,5 +11,7 @@ js/
 <p>A progression of some of my Javascript skills and interests.</p> 
 
 LINKS
-<a href="http://fridayarts.com/2013_old/">fridayarts concept interaction and architecture-2008</a>
-<a href="http://fridaydev.com/resume/">Animation and XML parser interaction-built in 2008 or early 2009</a>
+<p><a href="http://fridayarts.com/2013_old/">fridayarts concept interaction and architecture-2008</a>
+</p>
+<p><a href="http://fridaydev.com/resume/">Animation and XML parser interaction-built in 2008 or early 2009</a>
+</p>
