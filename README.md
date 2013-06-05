@@ -2,7 +2,7 @@
 <div><h6>examples of past work, idea sketches, and other adventures.</h6></div> 
 <div><h6><a href="github.com/augurone/somexamples">github examples</a></h6></div>
 <p>
-This is an selection of examples of my work including old interaction sketches, documentation, and some code examples.
+This is a selection of examples of my work including old interaction sketches, documentation, and some code examples.
 </p>
 documentation/
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
