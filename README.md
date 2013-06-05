@@ -13,6 +13,8 @@ js/
 LINKS
 <p><a href="http://fridayarts.com/2013_old/">fridayarts concept interaction and architecture-2008</a>
 </p>
+<p><a href="http://independentdistro.com">FrontEnd of IndependentDistro-2008</a>
+</p>
 <p><a href="http://fridaydev.com/resume/">Animation and XML parser interaction-built in 2008 or early 2009</a>
 </p>
 <p><a href="https://www.facebook.com/pages/Chad-Augur">on Facebook</a>
