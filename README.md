@@ -15,3 +15,11 @@ LINKS
 </p>
 <p><a href="http://fridaydev.com/resume/">Animation and XML parser interaction-built in 2008 or early 2009</a>
 </p>
+<p><a href="https://www.facebook.com/pages/Chad-Augur">on Facebook</a>
+</p>
+<p><a href="http://www.linkedin.com/in/fridaze">on LinkedIn</a>
+</p>
+<p><a href="https://twitter.com/fridazed">on Twitter</a>
+</p>
+<p><a href="http://stackoverflow.com/users/502762/augurone">Stack Overflow</a>
+</p>
