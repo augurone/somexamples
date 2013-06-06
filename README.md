@@ -15,9 +15,11 @@ Descriptions forth coming.
 </p> 
 
 Some Responsive Reference Designs-Early 2012
-<p>I did apprx 100 pages of HTML+CSS reference designs for this client using an early version of Bootstrap </p>
-<p>The Facebook App ID no longer works, this is the error in the top nav</p>
-<p>The interactions are not in place as the Job did not include Javascript</p>
+<ul>
+<li>I did apprx 100 pages of HTML+CSS reference designs for this client using an early version of Bootstrap</li>
+<li>The Facebook App ID no longer works, this is the error in the top nav</li>
+<li>The interactions are not in place as the Job did not include Javascript, nor is the JS linked at all</li>
+</ul>
 <p><a href="http://fridaydev.com/pmllc/fresh.html" target="_blank"></a></p>
 <p><a href="http://fridaydev.com/pmllc/fresh-A.html" target="_blank">Responsive Registration Page</a></p>
 <p><a href="http://fridaydev.com/pmllc/fresh2-C.html" target="_blank">Responsive Detailed Regestration Page</a></p>
