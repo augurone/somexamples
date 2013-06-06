@@ -7,7 +7,7 @@ This is a selection of examples of my work including old interaction sketches, d
 <a href="http://github.com/augurone/somexamples/tree/master/documentation">documentation/</a>
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
 	<ul>
-		__*Click filename to download the file for viewing*__
+		<strong><i>Click filename to download the file for viewing</i></strong>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" target="_blank"><strong>caugur_automation_comp-analysis.pdf:</strong></a> A competitive analysis of two vendors services. Analysis and Design</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_sow-requirements.pdf" target="_blank"><strong>caugur_automation_sow-requirements.pdf:</strong></a> A requirements document based on business analysis and User Activity analysis. Analysis and document ownership</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_taskmatrix.xlsx" target="_blank"><strong>caugur_automation_taskmatrix.xlsx:</strong></a> Breaksdown used for User Activity Analysis</li>
