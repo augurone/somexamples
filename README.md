@@ -8,7 +8,7 @@ This is a selection of examples of my work including old interaction sketches, d
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
 	<ul>
 		__*Click filename to download the file for viewing*__
-		<li><a href="http://github.c m/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" target="_blank"></a><strong>caugur_automation_comp-analysis.pdf:</strong> A competitive analysis of two vendors services. Analysis and Design</li>
+		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" target="_blank"><strong>caugur_automation_comp-analysis.pdf:</strong></a> A competitive analysis of two vendors services. Analysis and Design</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_sow-requirements.pdf" target="_blank"><strong>caugur_automation_sow-requirements.pdf:</strong></a> A requirements document based on business analysis and User Activity analysis. Analysis and document ownership</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_taskmatrix.xlsx" target="_blank"><strong>caugur_automation_taskmatrix.xlsx:</strong></a> Breaksdown used for User Activity Analysis</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_conduit_casestudy_reporting.pdf" target="_blank"><strong>caugur_conduit_casestudy_reporting.pdf:</strong></a> Project analysis and briefing. Analysis and document ownership</li>
