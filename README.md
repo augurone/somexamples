@@ -35,6 +35,8 @@ Some Responsive Reference Designs-Early 2012
 <p><a href="http://fridaydev.com/pmllc/fresh5.html" target="_blank">Responsive Messages page</a></p>
 
 LINKS
+<p><a href="http://fridayarts.com" target="_blank">fridayarts current home page</a>
+</p>
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
 </p>
 <p><a href="http://independentdistro.com" target="_blank">FrontEnd of IndependentDistro-2008</a>
@@ -47,5 +49,5 @@ LINKS
 </p>
 <p><a href="https://twitter.com/fridazed" target="_blank">on Twitter</a>
 </p>
-<p><a href="http://stackoverflow.com/users/502762/augurone" target="_blank">Stack Overflow</a>
+<p><a href="http://stackoverflow.com/users/502762/augurone" target="_blank">on Stack Overflow</a>
 </p>
