@@ -6,13 +6,31 @@ This is a selection of examples of my work including old interaction sketches, d
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/documentation">documentation/</a>
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
-	<ul>
-		<li><a href="https://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" download="caugur_automation_comp-analysis.pdf">Competitive Analysis (click to download)</a></li>
-		<li></li>
-	</ul>
+<br/>
+Descriptions forth coming, for now go to document and right click to save.
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/js">js/</a>
-<p>A progression of some of my Javascript skills and interests.</p> 
+<p>A progression of some of my Javascript skills and interests.
+Descriptions forth coming.
+</p> 
+
+Some Responsive Reference Designs-Early 2012
+<p>I did apprx 100 pages of HTML+CSS reference designs for this client using an early version of Bootstrap </p>
+<p>The Facebook App ID no longer works, this is the error in the top nav</p>
+<p>The interactions are not in place as the Job did not include Javascript</p>
+<p><a href="http://fridaydev.com/pmllc/fresh.html" target="_blank"></a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh-A.html" target="_blank">Responsive Registration Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh2-C.html" target="_blank">Responsive Detailed Regestration Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh2-G.html" target="_blank">Responsive Widget</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh2-H.html" target="_blank">Responsive Ad Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh3-A.html" target="_blank">Responsive Billing Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh3-B.html" target="_blank">Responsive Activity Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh3-J.html" target="_blank">Responsive Feedback Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh4-B.html" target="_blank">Responsive Search Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh4-D.html" target="_blank">Responsive Profile Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh4-F.html" target="_blank">Responsive Edit Profile Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh4-H.html" target="_blank">Responsive Who Viewed Me Page</a></p>
+<p><a href="http://fridaydev.com/pmllc/fresh5.html" target="_blank">Responsive Messages page</a></p>
 
 LINKS
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
