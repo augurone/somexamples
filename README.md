@@ -4,10 +4,10 @@
 <p>
 This is a selection of examples of my work including old interaction sketches, documentation, and some code examples.
 </p>
-documentation/
+<a href="http://github.com/augurone/somexamples/tree/master/documentation">documentation/</a>
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
 </p>
-js/
+<a href="http://github.com/augurone/somexamples/tree/master/js">js/</a>
 <p>A progression of some of my Javascript skills and interests.</p> 
 
 LINKS
