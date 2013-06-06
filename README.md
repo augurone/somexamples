@@ -9,7 +9,7 @@ This is a selection of examples of my work including old interaction sketches, d
 	<ul>
 		<li><strong>caugur_automation_comp-analysis.pdf:</strong> A competitive analysis of two vendors services. Analysis and Design</li>
 		<li><strong>caugur_automation_sow-requirements.pdf:</strong> A requirements document based on business analysis and User Activity analysis. Analysis and document ownership</li>
-		<li><strong>caugur_automation_taskmatrix.xlsx: Breaksdown used for User Activity Analysis</li>
+		<li><strong>caugur_automation_taskmatrix.xlsx:</strong>Breaksdown used for User Activity Analysis</li>
 		<li><strong>caugur_conduit_casestudy_reporting.pdf:</strong> Project analysis and briefing. Analysis and document ownership</li>
 		<li><strong>caugur_conduit_projectdocument.pdf:</strong> Complete project document released at 1.0 of project, includes requirements, UX, spec, and schedule. Analysis, Design, and document ownership</li>
 		<li><strong>caugur_example_analysis.pdf:</strong> Information Architecture Analysis and Theory paper. Analysis, theory, Design, document ownership</li>
