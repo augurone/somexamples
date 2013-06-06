@@ -6,6 +6,10 @@ This is a selection of examples of my work including old interaction sketches, d
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/documentation">documentation/</a>
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
+	<ul>
+		<li><a href="https://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" download="caugur_automation_comp-analysis.pdf">Competitive Analysis (click to download></a></li>
+		<li></li>
+	</ul>
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/js">js/</a>
 <p>A progression of some of my Javascript skills and interests.</p> 
