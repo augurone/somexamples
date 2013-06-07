@@ -29,9 +29,7 @@ Some Responsive Reference Designs-Early 2012
 <li>The Facebook App ID no longer works, this is the error in the top nav</li>
 <li>The interactions are not in place as the Job did not include Javascript, nor is the JS linked at all</li>
 </ul>
-<p><a href="http://fridaydev.com/pmllc/fresh.html" target="_blank"></a>
-Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
-</p>
+<p><a href="http://fridaydev.com/pmllc/fresh.html" target="_blank">Responive Sign-Up page</a></p>
 <p><a href="http://fridaydev.com/pmllc/fresh-A.html" target="_blank">Responsive Registration Page</a></p>
 <p><a href="http://fridaydev.com/pmllc/fresh2-C.html" target="_blank">Responsive Detailed Regestration Page</a></p>
 <p><a href="http://fridaydev.com/pmllc/fresh2-G.html" target="_blank">Responsive Widget</a></p>
@@ -47,6 +45,7 @@ Nothing Special hear, I more influenced it than did anything, Ray gets the credi
 
 LINKS
 <p><a href="http://fridayarts.com" target="_blank">fridayarts current home page</a>
+Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
 </p>
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
 </p>
