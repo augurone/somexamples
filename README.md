@@ -22,7 +22,7 @@ This is a selection of examples of my work including old interaction sketches, d
 All 11_ &amp; 12_ examples are jQuery dependent. 13_ I was a contributer, <strong>if it is commented in Russian I did not write it</strong>. These show a progression from specific interactions to more Object Oriented concepts.
 </p> 
 
-Some Responsive Reference Designs-Early 2012
+<h4>Some Responsive Reference Designs-Early 2012</h4>
 <ul>
 <li>I did apprx 100 pages of HTML+CSS reference designs for this client using an early version of Bootstrap</li>
 <li>The Facebook App ID no longer works, this is the error in the top nav</li>
