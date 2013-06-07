@@ -56,7 +56,7 @@ LINKS
 <br/> This is a sketch of an idea. It uses CSS3 and jQuery driven by an XML file, in a chain of callback functions. 
 </p>
 <p><a href="http://fridaydev.com/fp/" target="_blank">Concept "EcoSystem" App integrating Social Media API's-2011</a>
-<br/>It is an idea, the facebook portion does not function any longer as the access and data model have changed. The YouTube portions still works.  
+<br/>It is an idea, the facebook portion does not function any longer as the access and data model have changed. The YouTube portion still works.  
 </p>
 <p><a href="https://www.facebook.com/pages/Chad-Augur" target="_blank">on Facebook</a>
 </p>
