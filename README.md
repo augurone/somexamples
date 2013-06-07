@@ -1,8 +1,8 @@
 <div><h1>Chad Augur</h1></div>
 <div><h6>examples of past work, idea sketches, and other adventures.</h6></div> 
-<div><h6><a href="github.com/augurone/somexamples">github examples</a></h6></div>
 <p>
 This is a selection of examples of my work including old interaction sketches, documentation, and some code examples.
+I specialize in the design and UX/IA/UI of web applications, most of my work is "secret", some of my work never makes it out of concept phase, and so it is a challenge to show more than the ideas I am working with. I hope in the near future to do more "community" oriented work.
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/documentation">documentation/</a>
 <p>Various forms of documentation I have done around project requirements, specifications, reporting, UX, IA analysis and theory. 
