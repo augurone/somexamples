@@ -10,17 +10,16 @@ This is a selection of examples of my work including old interaction sketches, d
 		<strong><i>Click filename to download the file for viewing</i></strong>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_comp-analysis.pdf" target="_blank"><strong>caugur_automation_comp-analysis.pdf:</strong></a> A competitive analysis of two vendors services. Analysis and Design</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_sow-requirements.pdf" target="_blank"><strong>caugur_automation_sow-requirements.pdf:</strong></a> A requirements document based on business analysis and User Activity analysis. Analysis and document ownership</li>
-		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_taskmatrix.xlsx" target="_blank"><strong>caugur_automation_taskmatrix.xlsx:</strong></a> Breaksdown used for User Activity Analysis</li>
+		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_automation_taskmatrix.xlsx" target="_blank"><strong>caugur_automation_taskmatrix.xlsx:</strong></a>Breakdown used for User-Activity Analysis</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_conduit_casestudy_reporting.pdf" target="_blank"><strong>caugur_conduit_casestudy_reporting.pdf:</strong></a> Project analysis and briefing. Analysis and document ownership</li>
-		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_conduit_projectdocument.pdf" target="_blank"><strong>caugur_conduit_projectdocument.pdf:</strong></a> Complete project document released at 1.0 of project, includes requirements, UX, spec, and schedule. Analysis, Design, and document ownership</li>
-		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_example_analysis.pdf" target="_blank"><strong>caugur_example_analysis.pdf:</strong></a> Information Architecture Analysis and Theory paper. Analysis, theory, Design, document ownership</li>
+		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_conduit_projectdocument.pdf" target="_blank"><strong>caugur_conduit_projectdocument.pdf:</strong></a> Complete project document released at 1.0 of project, includes requirements, UX, spec, and schedule. Analysis, design, and document ownership</li>
+		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_example_analysis.pdf" target="_blank"><strong>caugur_example_analysis.pdf:</strong></a> Information Architecture Analysis and Theory paper. Analysis, theory, design, document ownership</li>
 		<li><a href="http://github.com/augurone/somexamples/blob/master/documentation/caugur_technical_document.pdf" target="_blank"><strong>caugur_technical_document.pdf:</strong></a> File system specification. Analysis, Research, Design, document ownership</li>
 	</ul>
-
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/js">js/</a>
-<p>A progression of some of my Javascript skills and interests.
-Descriptions forth coming.
+<p>A progression of some of my Javascript skills and interests. The prefix number indicates the year in which the script was written (11_,12_,13_..).
+All 11_ &amp; 12_ examples are jQuery dependent. 13_ I was a contributer,<strong>if it is commented in Russian I did not write it</strong>. These show a progression from specific interactions to more Object Oriented concepts.
 </p> 
 
 Some Responsive Reference Designs-Early 2012
@@ -45,7 +44,7 @@ Some Responsive Reference Designs-Early 2012
 
 LINKS
 <p><a href="http://fridayarts.com" target="_blank">fridayarts current home page</a>
-<br/>Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
+<br/>The landing page, I more influenced it than did anything, Ray gets the credit for this. 
 </p>
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
 <br/>This has a lot of cool stuff you cannot see. Grid navigavation both by click and by keyboard with arrow keys. This was very influential on some the work I did at SolutionSet for adidas and AMEX. 
