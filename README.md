@@ -19,7 +19,7 @@ This is a selection of examples of my work including old interaction sketches, d
 </p>
 <a href="http://github.com/augurone/somexamples/tree/master/js">js/</a>
 <p>A progression of some of my Javascript skills and interests. The prefix number indicates the year in which the script was written (11_,12_,13_..).
-All 11_ &amp; 12_ examples are jQuery dependent. 13_ I was a contributer,<strong>if it is commented in Russian I did not write it</strong>. These show a progression from specific interactions to more Object Oriented concepts.
+All 11_ &amp; 12_ examples are jQuery dependent. 13_ I was a contributer, <strong>if it is commented in Russian I did not write it</strong>. These show a progression from specific interactions to more Object Oriented concepts.
 </p> 
 
 Some Responsive Reference Designs-Early 2012
