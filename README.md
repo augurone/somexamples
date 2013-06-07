@@ -48,11 +48,13 @@ LINKS
 <br/>Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
 </p>
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
-<br/>This has a lot of cool stuff you cannot see. The grid navigavation not by click and by keyboard with arrow keys. This was very influential on some the work I did at SolutionSet for adidas and AMEX. 
+<br/>This has a lot of cool stuff you cannot see. The grid navigavation both by click and by keyboard with arrow keys. This was very influential on some the work I did at SolutionSet for adidas and AMEX. 
 </p>
 <p><a href="http://independentdistro.com" target="_blank">FrontEnd of IndependentDistro-2008</a>
+<br/>Small scale project that was one of my first personal adventures into MVC. I integrated the SoundCloud API for the player, and while it is a little bit hacky it works. It is all based on the MetaTag engine from SoundCloud. I have started work on a CMS, and then I may revisit the design.
 </p>
 <p><a href="http://fridaydev.com/resume/" target="_blank">Animation and XML parser interaction-built in 2008 or early 2009</a>
+<br/> This is a sketch of an idea. It uses CSS3 and jQuery driven by an XML file, in a chain of callback functions. 
 </p>
 <p><a href="https://www.facebook.com/pages/Chad-Augur" target="_blank">on Facebook</a>
 </p>
