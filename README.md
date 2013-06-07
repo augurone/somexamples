@@ -45,9 +45,10 @@ Some Responsive Reference Designs-Early 2012
 
 LINKS
 <p><a href="http://fridayarts.com" target="_blank">fridayarts current home page</a>
-Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
+<br/>Nothing Special hear, I more influenced it than did anything, Ray gets the credit for this. 
 </p>
 <p><a href="http://fridayarts.com/2013_old/" target="_blank">fridayarts concept interaction and architecture-2008</a>
+<br/>This has a lot of cool stuff you cannot see. The grid navigavation not by click and by keyboard with arrow keys. This was very influential on some the work I did at SolutionSet for adidas and AMEX. 
 </p>
 <p><a href="http://independentdistro.com" target="_blank">FrontEnd of IndependentDistro-2008</a>
 </p>
