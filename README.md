@@ -1,5 +1,6 @@
 <div><h1>Chad Augur</h1></div>
 <div><h6>examples of past work, idea sketches, and other adventures.</h6></div> 
+<p><strong><a href="http://github.com/augurone/somexamples/raw/master/resume/caugur_resume_0513-2.docx">download my r&eacute;sum&eacute;</a></strong></p>
 <p>
 This is a selection of examples of my work including old interaction sketches, documentation, and some code examples.
 I specialize in the design and UX/IA/UI of web applications, most of my work is "secret", some of my work never makes it out of concept phase, and so it is a challenge to show more than the ideas I am working with. I hope in the near future to do more "community" oriented work.
